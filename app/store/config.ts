@@ -100,6 +100,14 @@ export const ALL_MODELS = [
     available: true,
   },
   {
+    name: "claude-instant-v1",
+    available: true,
+  },
+  {
+    name: "claude-instant-v1-100k",
+    available: true,
+  },
+  {
     name: "qwen-v1", // 通义千问
     available: false,
   },
