@@ -83,7 +83,7 @@
       "csp": null
     },
     "updater": {
-      "active": true,
+      "active": false,
       "endpoints": [
         "https://github.com/ZacharyJia/ChatGPT-Next-Web/releases/latest/download/latest.json"
       ],
